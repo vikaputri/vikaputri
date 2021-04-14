@@ -3,5 +3,5 @@
 I am an Informatics Engineering Student at Gunadarma University. I am interested in Machine Learning and Web Programming.
 
 <p align="center">
-	<a href="https://github.com/vikaputri"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://github.com/vikaputri"></a>
 </p>
