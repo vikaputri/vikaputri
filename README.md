@@ -6,4 +6,6 @@ Website : http://vputri.pythonanywhere.com/
 
 Linkedin : https://www.linkedin.com/in/vikaputriariyanti
 
+Github : https://github.com/Vputri
+
 Kaggle : https://www.kaggle.com/vikaputri
