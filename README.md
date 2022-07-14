@@ -2,7 +2,7 @@
 
 I am an Informatics Engineering Student at Gunadarma University. I am interested in Machine Learning and Web Programming.
 
-Website : http://vputri.pythonanywhere.com/
+Website : https://vikaputri.herokuapp.com/
 
 Linkedin : https://www.linkedin.com/in/vikaputriariyanti
 
